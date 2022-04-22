@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parshviSri
 - 👀 I’m interested in Frontend Web Development
 - 🌱 I’m currently learning Web3 and crypto world
-- 💞️ I’m looking to collaborate on Web3 projects desperately 
+- 💞️ I’m looking to collaborate on Web3 projects  
 - 📫 How to reach me - mail me @ parshvisri@gmail.com ; twitter: @3618parshvi
 
 <!---
