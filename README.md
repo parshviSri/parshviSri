@@ -8,7 +8,7 @@
   <a href="https://medium.com/@parshvisri">
     <img src="https://img.shields.io/badge/Medium-gray?style=for-the-badge&logo=medium&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/_parshvi">
+  <a href="https://twitter.com/3618parshvi">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
