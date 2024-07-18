@@ -59,7 +59,6 @@ I am a Software Developer specialize in analytics <img src="https://media.giphy.
 - [BITCOIN White Paper Summary](https://medium.com/coinmonks/bitcoin-white-paper-summary-afd6e5642254)
 - [External Call Security in Your Solidity Smart Contract](https://medium.com/coinmonks/external-call-security-in-your-solidity-smart-contract-2d7c0be5e20)
 - [What is economics?](https://medium.com/@parshvisri/what-is-economics-8c6743cb909b)
--[How perpetual mapping can change your brand game](https://medium.com/@parshvisri/how-perpetual-mapping-can-change-your-brand-game-6b5456adcc26)
-- <!-- BLOG-POST-LIST:START -->
+-[How perpetual mapping can change your brand game](https://medium.com/@parshvisri/how-perpetual-mapping-can-change-your-brand-game-6b5456adcc26)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
