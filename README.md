@@ -15,9 +15,9 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Software Developer specialize in analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m working as a Associate Consultant and contributing to frontend and backend for building web applications.
+- 🔭 I’m working as a Software Engineer  and contributing data analysis, platform building.
 - 🌱 Exploring Crypto Blockchain and Web3.
 - ⚡ In my free time I like to read books and develop Dapps.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-parshvi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parshvi-srivastava)
@@ -27,6 +27,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
@@ -55,6 +58,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### ✍️ Blog Posts : 
 - [BITCOIN White Paper Summary](https://medium.com/coinmonks/bitcoin-white-paper-summary-afd6e5642254)
 - [External Call Security in Your Solidity Smart Contract](https://medium.com/coinmonks/external-call-security-in-your-solidity-smart-contract-2d7c0be5e20)
-- [What is economics?](https://medium.com/@parshvisri/what-is-economics-8c6743cb909b)<!-- BLOG-POST-LIST:START -->
+- [What is economics?](https://medium.com/@parshvisri/what-is-economics-8c6743cb909b)
+-[How perpetual mapping can change your brand game](https://medium.com/@parshvisri/how-perpetual-mapping-can-change-your-brand-game-6b5456adcc26)
+- <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
